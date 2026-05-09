@@ -2,12 +2,6 @@
 
 Добавил Poetry
 
----
-
 Добавил APIRouter
 
----
-
 Добавил sqlalchemy
-
----
